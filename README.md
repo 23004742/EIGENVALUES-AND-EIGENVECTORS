@@ -18,7 +18,8 @@ import numpy as np
 a=[[-2,2,-3],[2,1,-6],[-1,-2,0]]
 values,vectors=np.linalg.eig(a)
 print("Eigen values are",values,"and Eigen Vectors are",vectors)                                                                                                                                ```
-## Output:                                                                                                                                                                                        ![image](https://github.com/23004742/EIGENVALUES-AND-EIGENVECTORS/assets/150319318/e98b4fa1-b87f-4dde-9815-1fd3bae89e5f)
+## Output:                                                                                                                                                                                        ![image](https://github.com/23004742/EIGENVALUES-AND-EIGENVECTORS/assets/150319318/dac797b2-53c9-4f66-9096-7da50ff0f24c)
+
 
 
 ## Result:
